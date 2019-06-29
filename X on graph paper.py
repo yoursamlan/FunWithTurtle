@@ -1,4 +1,4 @@
-#It's the funniest way to draw a graph paper
+#It's the funniest way to draw X on a graph paper
 import turtle
 from turtle import *
 
