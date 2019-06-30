@@ -10,8 +10,4 @@ Turtle module is coming pre-installed from Python 2.6+ and 3.6+ respectively.
 
 ### turtle.forward()
 turtle.forward() is the main tool of turtle. As the name suggests, it helps to draw  straight line in forward direction. To draw a straight line of certain length (say l px), we have to put "1" inside the bracket.
-Example: 
-'''python
-turtle.forward("100")
-'''
-will generate 100 px long straight line in forward direction.
+Example: **turtle.forward("100")** will generate 100 px long straight line in forward direction.
